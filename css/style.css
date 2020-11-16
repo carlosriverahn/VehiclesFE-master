@@ -1,0 +1,10 @@
+.bg{
+    background-image: url("http://wallpapers4screen.com/Uploads/30-1-2016/26398/thumb2-tires-winter-tires-zimova-gum-pokryshki.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-dark {
+    opacity: 80%;
+}
